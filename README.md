@@ -1,1 +1,1 @@
-# myopathy
+# Myopathy Diagnostic Timeline
